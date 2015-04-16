@@ -1,9 +1,20 @@
 # test
 ====
 
-Githubのテスト
+test
 
-##メンバー
+##test
 
-*testmember
+*AppDelegate.swift
+ Base.lproj
+ Images.xcassets
+ Info.plist
+ test.xcdatamodeld
+ ViewController.swift
 
+##test.xcodeproj
+
+##testTests
+
+*Info.plist
+ testTests.swift
